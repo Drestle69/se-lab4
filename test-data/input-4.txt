@@ -1,0 +1,4 @@
+# Fires primary again, because secondary is empty
+GT4500,2,0,0,0
+TORPEDO,SINGLE # Fires primary
+TORPEDO,SINGLE # Fires primary again, because it realises secondary is empty
