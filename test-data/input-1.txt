@@ -1,0 +1,5 @@
+# Does the stores switch
+GT4500,1,0,1,0
+TORPEDO,SINGLE # We fire out the primary store
+TORPEDO,SINGLE # We fire out the secondary store hopefully
+TORPEDO,SINGLE # There's no torpedo left, and we fired out each store

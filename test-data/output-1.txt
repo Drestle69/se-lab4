@@ -1,0 +1,4 @@
+SUCCESS # GT4500
+SUCCESS # TORPEDO primary fire
+SUCCESS # TORPEDO secondary fire
+FAIL # No torpedo left

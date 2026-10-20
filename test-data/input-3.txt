@@ -1,0 +1,4 @@
+# Does ALL work on it
+GT4500,1,0,1,0
+TORPEDO,ALL # Should fire out both stores
+TORPEDO,SINGLE # Should give FAIL, because no torpedos left

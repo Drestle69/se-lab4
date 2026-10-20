@@ -1,0 +1,6 @@
+# Fires only one when firing with ALL
+GT4500,1,0,0,0
+TORPEDO,ALL # Fires out only the primary
+GT4500,0,0,1,0
+TORPEDO,ALL # Fires out only the secondary
+TORPEDO,ALL # To see there's none left

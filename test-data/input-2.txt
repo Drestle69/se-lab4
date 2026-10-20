@@ -1,0 +1,4 @@
+# Will it switch stores if the first one is empty
+GT4500,0,0,1,0
+TORPEDO,SINGLE # We fire and hope it fires automatically the secondary store
+TORPEDO,SINGLE # Now there supposed to be no torpedos left
